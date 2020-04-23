@@ -4,4 +4,4 @@
 
 * cd desktop\R
 
-            * jupyter notebook
+* jupyter notebook
